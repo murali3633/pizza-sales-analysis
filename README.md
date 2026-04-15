@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
+Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices. 
 
 
   
